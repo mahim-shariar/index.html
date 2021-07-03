@@ -70,15 +70,30 @@ div{
 
 .reset {
     border: solid rgb(165, 70, 70)  ;
-    background-color: red;
+    background-color: rgb(219, 34, 34);
     padding: 11px;
     border-radius: 21px;
     cursor: pointer;
+    margin-left: 250px;
 }
 
 .reset:hover {
-    background-color: darkred;
+    background-color: rgb(83, 65, 65);
     padding-left: 15px;
     padding-right: 15px;
 
 } 
+
+.cencal{
+    border: darkred solid;
+    padding: 11px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: rgb(170, 76, 76);
+}
+
+.cencal:hover{
+    background-color: rgb(49, 46, 46);
+    padding-left: 15px;
+    padding-right: 15px;
+}
