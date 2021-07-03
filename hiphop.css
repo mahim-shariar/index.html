@@ -61,7 +61,7 @@ div{
 }
 
 .submit:hover {
-    /* background-color: black; */
+    background-color: rgb(194, 177, 177);
     padding-left: 15px;
     padding-right: 15px;
 }
@@ -75,3 +75,10 @@ div{
     border-radius: 21px;
     cursor: pointer;
 }
+
+.reset:hover {
+    background-color: darkred;
+    padding-left: 15px;
+    padding-right: 15px;
+
+} 
